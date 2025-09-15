@@ -1,0 +1,17 @@
+---
+summary:
+  name: Fallout New Vegas
+  author: Tenno
+  info: The theme is inspired by the game Fallout New Vegas.
+colors:
+  PRIMARY1: 0x000000
+  PRIMARY2: 0x969686
+  PRIMARY3: 0xDDDDB5
+  SECONDARY1: 0x804C14
+  SECONDARY2: 0xF1C679
+  SECONDARY3: 0x6B2F14
+  FOCUS: 0xBC612A
+  EDIT: 0xFCF0C7
+  ACTIVE: 0xF1C679
+  WARNING: 0xE00000
+  DISABLED: 0xCA5B2E
