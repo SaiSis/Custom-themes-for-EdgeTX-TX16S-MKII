@@ -35,16 +35,6 @@ Tested on EdgeTX 2.10+.
       <em>Background</em>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="themes/fallout-nv/preview1.png" alt="Fallout NV 1" width="250"><br>
-      <em>Fallout NV Theme #1</em>
-    </td>
-    <td align="center">
-      <img src="themes/fallout-nv/preview2.png" alt="Fallout NV 2" width="250"><br>
-      <em>Fallout NV Theme #2</em>
-    </td>
-  </tr>
 </table>
 
 ### Fallout: New Vegas
@@ -77,8 +67,3 @@ Tested on EdgeTX 2.10+.
     </td>
   </tr>
 </table>
-
-
-
-![Hardware](img/fallout_nv/hardware.png)
-![Background](img/fallout_nv/background.png)
